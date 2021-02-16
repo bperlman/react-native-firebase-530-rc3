@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ben/Dropbox/Development/TezLab/tesla-mobile/node_modules/react-native-firebase/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/ben/.gradle/caches/transforms-2/files-2.1/f9b6a03c073eded97d9e934bd932714a/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/ben/Dropbox/Development/TezLab/tesla-mobile/node_modules/react-native-firebase/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/ben/.gradle/caches/transforms-2/files-2.1/f9b6a03c073eded97d9e934bd932714a/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]

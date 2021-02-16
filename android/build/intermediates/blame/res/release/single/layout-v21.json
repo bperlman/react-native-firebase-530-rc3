@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ben/Dropbox/Development/TezLab/tesla-mobile/node_modules/react-native-firebase/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/ben/.gradle/caches/transforms-2/files-2.1/88597bcc03185847a54a95770c5ac08d/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/ben/Dropbox/Development/TezLab/tesla-mobile/node_modules/react-native-firebase/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/ben/.gradle/caches/transforms-2/files-2.1/88597bcc03185847a54a95770c5ac08d/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/ben/Dropbox/Development/TezLab/tesla-mobile/node_modules/react-native-firebase/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/ben/.gradle/caches/transforms-2/files-2.1/88597bcc03185847a54a95770c5ac08d/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/ben/Dropbox/Development/TezLab/tesla-mobile/node_modules/react-native-firebase/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/ben/.gradle/caches/transforms-2/files-2.1/88597bcc03185847a54a95770c5ac08d/res/layout-v21/notification_action.xml"
+    }
+]
